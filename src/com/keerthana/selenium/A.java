@@ -13,4 +13,6 @@ public class A {
 	A(int a, int b){
 		System.out.println("Parent class 2 arg constructor");
 	}
+	A(int a, int b,intc){
+		System.out.println("Parent class 3 arg constructor");
 }
